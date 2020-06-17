@@ -6,3 +6,7 @@ smart
 
 branch
 code
+merge
+
+yess
+code
